@@ -1,0 +1,2 @@
+# Backend-Development-CRUD-student-records-API-week-8
+ Student Record API is a backend project built with Node.js, Express.js, MongoDB Atlas, and Mongoose for managing student records. It supports CRUD operations, query filtering by gender, error handling, and persistent data storage. The project uses clean architecture with routes, controllers, models, middleware, and cloud database integration.  
